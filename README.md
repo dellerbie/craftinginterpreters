@@ -1,5 +1,7 @@
 # craftinginterpreters
-Coding along with [craftinginterpreters.com](http://craftinginterpreters.com) tutorial
+Coding along with [craftinginterpreters.com](http://craftinginterpreters.com) tutorial.
+
+Implements an interpreter for the "Lox" programming language
 
 ```
 // Your first Lox program!
